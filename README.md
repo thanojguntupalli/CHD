@@ -1,1 +1,1 @@
-# CHD
+# Coronory Heart Disease Prediction
